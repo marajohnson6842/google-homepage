@@ -1,0 +1,1 @@
+The following prodject is intended to showcase newly acuired skills in css and html. The intention is to mimic the style of the google homepage. 
